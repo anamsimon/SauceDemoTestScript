@@ -2,7 +2,7 @@
 # Automated test
 ## Introduction
 Automated tests of an e-commerce website using Selenium Webdriver C#.
-This project uses Page Object Model (POM) design pattern to represent each web page and component as a class file and Page Factory is used to declare, locate web element using annotations like @FindBy
+This project uses Page Object Model (POM) design pattern to represent each web page and component as a class file and Page Factory is used to declare, locate web element using annotations like @FindBy.
 
 ### Project Structure
 ```bash
@@ -54,4 +54,5 @@ https://www.saucedemo.com/
 
 ## Future Work
 Test can be run in parallel on dockers. 
-Connfigurations can be read from config file.
+Configurations can be read from config file.
+Test report can be generated.
